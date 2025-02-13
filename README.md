@@ -3,7 +3,6 @@
 Netflix Subscription & Revenue Dashboard 📊
 Overview
 ![Netflix Dashboard](Dashboard_Screenshot.png)
-![Presentation Link](https://docs.google.com/presentation/d/1IcaCHtsSx9Wxs0boniDnXDGapR6c_cM-iHRmjzXfPYk/edit?usp=drive_link)
 This Power BI dashboard provides key insights into Netflix’s user subscription trends, revenue analysis, and customer demographics. The project leverages Power Query for data transformation and DAX for advanced calculations, offering a data-driven perspective on user engagement, plan preferences, and revenue fluctuations.
 📌 Features & Insights
 

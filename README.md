@@ -1,5 +1,9 @@
 # Netflix-Dashboard-User-Subscription-and-Revenue
 
+## 📊 Netflix Analytics Presentation
+[View the full presentation here](https://docs.google.com/presentation/d/1IcaCHtsSx9Wxs0boniDnXDGapR6c_cM-iHRmjzXfPYk/edit#slide=id.g100b3f4e333_13_75)
+
+
 Netflix Subscription & Revenue Dashboard 📊
 Overview
 ![Netflix Dashboard](Dashboard_Screenshot.png)
